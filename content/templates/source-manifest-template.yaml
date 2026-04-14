@@ -1,0 +1,12 @@
+asset_name: replace-with-asset-name
+asset_type: audio
+source_url: https://example.org/resource
+author: Example Author
+publisher: Example Publisher
+license: CC BY-SA 4.0
+attribution: Example Author via Example Publisher, CC BY-SA 4.0
+source_class: A
+reuse_decision: link-only
+local_path: content/media/replace-with-file.ext
+used_in: []
+notes: Replace with approval or review notes.
