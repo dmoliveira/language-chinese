@@ -60,6 +60,31 @@ main {
   margin-bottom: 1.5rem;
 }
 
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 0.85rem 1rem;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+}
+
+.top-nav a {
+  text-decoration: none;
+  font-weight: 700;
+  color: var(--accent-strong);
+}
+
+.top-nav a[aria-current="page"] {
+  background: var(--accent-soft);
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+}
+
 .eyebrow {
   display: inline-block;
   width: fit-content;
