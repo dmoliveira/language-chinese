@@ -71,6 +71,16 @@ main {
   border: 1px solid var(--border);
   border-radius: 999px;
   box-shadow: var(--shadow);
+  position: relative;
+}
+
+.top-nav::after {
+  content: "你好 · 学习 · 阅读 · 写作 · 说话";
+  width: 100%;
+  color: #9a3412;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
 }
 
 .top-nav a {
@@ -265,6 +275,40 @@ p {
   padding: 1rem 1.1rem;
 }
 
+.lesson-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 1rem;
+}
+
+.lesson-sidebar {
+  display: grid;
+  gap: 1rem;
+}
+
+.example-box {
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.85rem 0.95rem;
+}
+
+.hanzi-line {
+  font-size: 1.15rem;
+  color: var(--text);
+  margin-bottom: 0.35rem;
+}
+
+.pinyin-line {
+  color: #7c3aed;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.english-line {
+  color: var(--muted);
+}
+
 .step-list {
   list-style: none;
   padding: 0;
@@ -386,5 +430,9 @@ code {
   .highlight-card,
   .site-footer {
     padding: 1rem;
+  }
+
+  .lesson-grid {
+    grid-template-columns: 1fr;
   }
 }

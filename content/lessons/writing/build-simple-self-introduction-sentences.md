@@ -44,6 +44,25 @@ Core pattern:
 
 - 你好，我叫 + name。
 
+Expansion pattern:
+
+- 你好，我叫 + name。很高兴认识你。
+
+## Before You Write
+
+Before writing your own sentence, say the pattern aloud:
+
+- 你好，我叫 Emma。
+
+Then notice the order:
+
+1. greeting
+2. comma pause
+3. 我叫
+4. name
+
+This helps you write in a stable structure.
+
 ## Lesson Content
 
 Start with one short model:
@@ -60,11 +79,40 @@ Writing advice:
 - Copy the structure before changing the name.
 - Focus on correct order, not complexity.
 
+Writing process:
+
+- copy the model once
+- replace the name
+- read your sentence aloud
+- add one polite ending if ready
+
+## Guided Build
+
+Step 1:
+
+- Write **你好**
+
+Step 2:
+
+- Add **我叫**
+
+Step 3:
+
+- Add your name
+
+Step 4:
+
+- Optional: add **很高兴认识你**
+
 ## Practice
 
 1. Write: “Hello, my name is Alex.”
 2. Replace the name in this sentence: **你好，我叫 ___。**
 3. Write a two-sentence self-introduction using **你好** and **很高兴认识你**.
+4. Write the short model once from memory.
+5. Write one version with your real name and one with an example name.
+6. Underline the part that means “my name is”.
+7. Read your final version aloud after writing it.
 
 ## Answer Key or Rubric
 
@@ -73,12 +121,31 @@ Possible answers:
 1. **你好，我叫 Alex。**
 2. Any personal or example name is acceptable.
 3. Example: **你好，我叫 Maria。很高兴认识你。**
+4. Any accurate reconstruction of the model is acceptable.
+5. Both versions are acceptable if the sentence order is correct.
+6. **我叫**
+7. Success if the learner can read their own sentence clearly.
 
 Rubric:
 
 - Uses greeting correctly.
 - Uses **我叫** in correct position.
 - Produces a clear, short introduction.
+
+Additional quality signs:
+
+- punctuation is separated clearly
+- name is placed after **我叫**
+- learner can read back what they wrote
+
+## Extension Practice
+
+If the main task feels easy, try:
+
+- write the sentence using a different name
+- write a version without looking at the model
+- add **很高兴认识你** to make a two-sentence version
+- compare your sentence with the model and fix order mistakes
 
 ## Related Flashcards and References
 

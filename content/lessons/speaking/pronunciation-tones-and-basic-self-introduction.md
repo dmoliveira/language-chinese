@@ -45,6 +45,22 @@ Tone reminder:
 - hǎo = third tone
 - jiào = fourth tone
 
+Useful speaking chunks:
+
+- 你好
+- 我叫 ...
+- 很高兴认识你
+
+## Before You Speak
+
+Before saying the full introduction:
+
+- say each short chunk alone
+- keep syllables clear
+- avoid trying to sound fast too early
+
+Your first goal is clarity, not speed.
+
 ## Lesson Content
 
 Practice in three steps:
@@ -63,11 +79,39 @@ Speaking tips:
 - Focus on clear syllables before trying to sound fast.
 - Pause naturally after commas and full stops.
 
+Pronunciation focus:
+
+- keep **nǐ hǎo** balanced across both syllables
+- do not drop **jiào** too quickly
+- make the last part of **rènshi nǐ** audible
+
+## Guided Speaking Routine
+
+Round 1:
+
+- say each chunk alone
+
+Round 2:
+
+- join two chunks
+
+Round 3:
+
+- say the full line naturally
+
+Round 4:
+
+- say it again with your own name and slightly less hesitation
+
 ## Practice
 
 1. Say **你好** three times slowly.
 2. Say **我叫 ...** and add your own name.
 3. Record or rehearse a full line: **你好，我叫 ...。很高兴认识你。**
+4. Say the full line once slowly and once at natural speed.
+5. Practice with two different names.
+6. Pause after **你好** and notice the sentence rhythm.
+7. Try speaking while looking only at hanzi, then only at pinyin.
 
 ## Answer Key or Rubric
 
@@ -77,10 +121,25 @@ Success looks like:
 - learner keeps the correct word order
 - learner can complete a one-line self-introduction
 
+Additional success signs:
+
+- learner does not break every syllable unnaturally
+- learner keeps the introduction in one connected flow
+- listener can understand the speaker’s intent
+
 If using self-review, ask:
 
 - Could I say each phrase without stopping after every syllable?
 - Did I keep **我叫** together as one chunk?
+
+## Extension Practice
+
+If this feels manageable, try:
+
+- introduce yourself twice with different names
+- say the line while standing and speaking naturally
+- imagine you are greeting a new classmate or colleague
+- listen to yourself and identify one part to improve next
 
 ## Related Flashcards and References
 
