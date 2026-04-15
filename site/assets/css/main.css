@@ -258,6 +258,58 @@ p {
   padding: 0.9rem 1rem;
 }
 
+.path-card {
+  background: linear-gradient(135deg, #eff6ff 0%, #fdf2f8 100%);
+  border: 1px solid #c7d2fe;
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+}
+
+.step-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.step-list li {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  align-items: start;
+}
+
+.step-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  background: var(--accent-strong);
+  color: #fff;
+  font-weight: 700;
+}
+
+.next-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.next-nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0.7rem 0.95rem;
+  border-radius: 999px;
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+}
+
 code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   background: #eef2f7;
