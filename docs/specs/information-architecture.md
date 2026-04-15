@@ -2,6 +2,8 @@
 
 ## Public site structure
 
+### Current MVP primary navigation
+
 - Home
 - Start Here
 - Learn by Skill
@@ -18,6 +20,16 @@
 - Evaluation
 - About / Contribute
 
+### Future handbook-first navigation target
+
+- Home
+- Start Here
+- Learn by Stage
+- References
+- Review & Assess
+- Study Plans
+- About / Contribute
+
 ## Repository structure
 
 - `docs/plan/`
@@ -26,6 +38,7 @@
   - product, content, accessibility, roadmap, sourcing specifications
 - `docs/curriculum/`
   - levels, modules, study plans, references
+- `content/parts/` later for handbook part/stage/unit mapping when the guidebook model is implemented
 - `content/`
   - lessons, references, study plans, decks, evaluation content, media manifests, templates
 - `scripts/`
@@ -40,6 +53,7 @@
 3. Technical content is tagged as an overlay, not isolated from the main path.
 4. References are stable and reusable across lessons.
 5. Evaluation pages point back to prerequisite lessons and related study plans.
+6. The current MVP stays skill/goal-first, but future guidebook growth can add stage-based navigation as a primary path once stage/unit entities are implemented.
 
 ## Page design expectations
 

@@ -77,6 +77,21 @@ Build the project in public, in small publishable slices, starting with planning
 - contributors can add lessons consistently
 - public quality bar is documented and repeatable
 
+## Milestone 6: multi-year guidebook architecture
+
+- define guidebook architecture
+- define proficiency framework
+- define review system
+- define reference roadmap
+- define Level 1 curriculum map
+
+### Exit criteria
+
+- long-range handbook structure is explicit
+- level progression has measurable outcomes
+- review system is defined for retention
+- next curriculum expansion can follow a stable architecture
+
 ## MVP definition
 
 The first public MVP should include:

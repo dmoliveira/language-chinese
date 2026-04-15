@@ -74,6 +74,10 @@ This technical-track starter is an optional **Level 1 overlay** and is not requi
 
 The MVP is ready when every item in this inventory exists in publishable form with metadata, accessibility support, and license/source notes where required.
 
+## Relationship to future guidebook model
+
+This MVP inventory reflects the current public skill/goal-first site. A future handbook expansion may introduce Parts, Stages, and Units as a higher-order curriculum structure, but that does not replace the validity of the current MVP inventory.
+
 ## Canonical source-of-truth mapping
 
 | Artifact type | Authoring location | Publish pattern | Notes |

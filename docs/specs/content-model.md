@@ -2,6 +2,37 @@
 
 ## Core entities
 
+### Part
+
+- id
+- title
+- summary
+- target duration
+- target level band
+- stage ids
+
+### Stage
+
+- id
+- title
+- summary
+- part id
+- target duration
+- target outcomes
+- unit ids
+
+### Unit
+
+- id
+- title
+- summary
+- stage id
+- estimated duration
+- lesson ids
+- reference ids
+- deck ids
+- checkpoint ids
+
 ### Lesson
 
 - id
@@ -58,6 +89,16 @@
 - required modules
 - milestone checks
 
+### Checkpoint
+
+- id
+- title
+- checkpoint type
+- unit or stage id
+- prompt set or task
+- answer key or rubric
+- progression rule
+
 ## Module definitions
 
 ### Listening
@@ -105,6 +146,7 @@
 - lessons and other skill-specific pages must declare a primary skill
 - all media-linked lessons must declare transcript availability
 - all imported content must declare source and license metadata
+- part, stage, unit, and checkpoint entities must declare stable IDs and explicit relationships to child content
 
 ## Content design rules
 
@@ -113,3 +155,4 @@
 3. Avoid hiding essential meaning in audio-only or image-only formats.
 4. Use technical Chinese only after the learner has a core general-language base.
 5. Keep every lesson connected to at least one review or assessment mechanism.
+6. Long-range curriculum growth should group lessons into units and stages before large-scale content expansion.

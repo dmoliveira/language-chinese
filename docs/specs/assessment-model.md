@@ -20,14 +20,14 @@
 - immediate answers for objective items
 - rubrics for open responses
 
-### Module exit checks
+### Unit exit checks
 
-- one integrated task per module
+- one integrated task per unit
 - simple completion criteria
 
-### Milestone reviews
+### Stage and level milestone reviews
 
-- cross-skill review after each level band
+- cross-skill review after each stage or level band
 - can-do statements
 - learner reflection and gap identification
 
