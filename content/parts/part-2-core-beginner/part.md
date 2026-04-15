@@ -8,6 +8,7 @@ target_level_band: level-1-beginner
 stage_ids:
   - stage-1-daily-routine-and-time
   - stage-2-food-needs-and-preferences
+  - stage-3-family-people-and-personal-information
 status: draft
 license: CC BY-SA 4.0
 slug: part-2-core-beginner
@@ -30,6 +31,7 @@ Turn the foundation into a usable beginner system for everyday life topics.
 
 - Stage 1 — Daily Routine and Time
 - Stage 2 — Food, Needs, and Preferences
+- Stage 3 — Family, People, and Personal Information
 
 ## Source and License Notes
 
