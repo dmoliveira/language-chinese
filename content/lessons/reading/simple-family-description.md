@@ -29,6 +29,42 @@ slug: simple-family-description
 - read a short person/family description
 - identify simple personal information
 
+## Reading Text
+
+- 这是我姐姐。— This is my older sister.
+- 她是学生。— She is a student.
+- 她学习中文。— She studies Chinese.
+
+## What To Notice
+
+- one family word + one role + one activity makes a useful paragraph
+- beginner personal descriptions are often very short
+
+## Practice
+
+1. Who is being described?
+2. What is her role?
+3. What does she study?
+4. Underline the family word.
+
+## Answer Key or Rubric
+
+1. The older sister.
+2. She is a student.
+3. Chinese.
+4. **姐姐**
+
+## Related Flashcards and References
+
+- `reference-beginner-301`
+- `reference-beginner-302`
+- `deck-beginner-301`
+
+## Transcript or Media Notes
+
+- no audio required for this reading lesson in the MVP draft
+- if audio is added later, align one sentence at a time with the text
+
 ## Source and License Notes
 
 - Original project-authored lesson draft.
