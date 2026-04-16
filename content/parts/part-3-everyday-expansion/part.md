@@ -8,6 +8,7 @@ target_level_band: level-2-early-intermediate
 stage_ids:
   - stage-1-habits-preferences-and-comparison
   - stage-2-reasons-choices-and-short-explanations
+  - stage-3-connected-everyday-descriptions
 status: draft
 license: CC BY-SA 4.0
 slug: part-3-everyday-expansion
@@ -30,6 +31,7 @@ Help learners move from simple isolated beginner sentences into short connected 
 
 - Stage 1 — Habits, Preferences, and Comparison
 - Stage 2 — Reasons, Choices, and Short Explanations
+- Stage 3 — Connected Everyday Descriptions
 
 ## Source and License Notes
 
