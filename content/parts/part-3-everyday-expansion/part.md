@@ -7,6 +7,7 @@ target_duration: 6-to-12-months
 target_level_band: level-2-early-intermediate
 stage_ids:
   - stage-1-habits-preferences-and-comparison
+  - stage-2-reasons-choices-and-short-explanations
 status: draft
 license: CC BY-SA 4.0
 slug: part-3-everyday-expansion
@@ -28,6 +29,7 @@ Help learners move from simple isolated beginner sentences into short connected 
 ## Stage Sequence
 
 - Stage 1 — Habits, Preferences, and Comparison
+- Stage 2 — Reasons, Choices, and Short Explanations
 
 ## Source and License Notes
 
