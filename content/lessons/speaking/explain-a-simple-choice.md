@@ -29,6 +29,40 @@ slug: explain-a-simple-choice
 - explain one simple choice clearly
 - add one short reason
 
+## Useful Speaking Chunks
+
+- 因为我喜欢茶，所以我常常喝茶。
+- 因为我今天很忙，所以我不去学校。
+
+## Speaking Routine
+
+1. say the choice
+2. add a short reason
+3. connect them with 因为 / 所以
+4. repeat the sentence naturally
+
+## Practice
+
+- speak 3 to 4 short lines explaining one simple choice and one reason
+
+## Answer Key or Rubric
+
+Success looks like:
+
+- the reason is understandable
+- the result is understandable
+- the connection between ideas is clear
+
+## Related Flashcards and References
+
+- `reference-expansion-201`
+- `reference-expansion-202`
+- `deck-expansion-201`
+
+## Transcript or Media Notes
+
+- no audio required for this speaking lesson in the MVP draft
+
 ## Source and License Notes
 
 - Original project-authored lesson draft.

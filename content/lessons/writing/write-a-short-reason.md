@@ -29,6 +29,42 @@ slug: write-a-short-reason
 - write a simple reason sentence
 - connect a choice and a reason clearly
 
+## Pattern Support
+
+- 因为我喜欢茶，所以我常常喝茶。
+- 因为我今天很忙，所以我不去学校。
+
+## How To Build The Sentence
+
+1. state the reason with 因为
+2. state the result with 所以
+3. keep the sentence short and clear
+
+## Practice
+
+1. Write one sentence about a food or drink choice.
+2. Write one sentence about a simple plan.
+3. Use 因为 and 所以 once.
+4. Read your sentence aloud after writing it.
+
+## Answer Key or Rubric
+
+Rubric:
+
+- includes one reason
+- includes one result
+- uses a connector clearly
+
+## Related Flashcards and References
+
+- `reference-expansion-201`
+- `reference-expansion-202`
+- `deck-expansion-201`
+
+## Transcript or Media Notes
+
+- no media required for this writing lesson in the MVP draft
+
 ## Source and License Notes
 
 - Original project-authored lesson draft.
