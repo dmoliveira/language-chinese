@@ -275,6 +275,72 @@ p {
   padding: 1rem 1.1rem;
 }
 
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.filter-bar label {
+  font-weight: 700;
+  color: var(--accent-strong);
+}
+
+.filter-bar select,
+.filter-bar input {
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+}
+
+.filter-bar input {
+  min-width: 220px;
+}
+
+.browse-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.browse-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem 1.1rem;
+}
+
+.browse-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.6rem 0 0.8rem;
+}
+
+.browse-tag {
+  display: inline-flex;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.browse-card[hidden] {
+  display: none !important;
+}
+
+.results-count {
+  color: var(--muted);
+  font-weight: 700;
+  margin-top: 0.5rem;
+}
+
 .lesson-grid {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
