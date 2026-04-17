@@ -436,3 +436,41 @@ code {
     grid-template-columns: 1fr;
   }
 }
+
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .top-nav,
+  .site-footer,
+  .hero-actions,
+  .chip-link,
+  .btn {
+    display: none !important;
+  }
+
+  main {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .panel,
+  .hero,
+  .highlight-card,
+  .path-card,
+  .progress-card,
+  .nav-card {
+    box-shadow: none;
+    border: 1px solid #bbb;
+    background: #fff;
+    break-inside: avoid;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+}
